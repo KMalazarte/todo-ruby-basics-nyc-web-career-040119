@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(name)
-  return name
+  var = name
   print 
 end
 
@@ -15,7 +15,7 @@ def greeting(greeting, name)
 
 end
 
-def return_a_value(phrase="Nice")
+def return_a_value(phrase)
   return phrase
 end
 
