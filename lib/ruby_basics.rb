@@ -4,7 +4,6 @@ end
 
 def assign_variable(name)
   var = name
-  print 
 end
 
 def argue(ment)
@@ -23,6 +22,6 @@ def last_evaluated_value
 
 end
 
-def pizza_party(pizza=cheese)
+def pizza_party(pizza = "cheese")
   return pizza
 end
